@@ -18,4 +18,5 @@ This project was built to satisfy 100% of the rigorous formatting specs for the 
 ## 📂 Architecture Blueprint
 * `main.py`: The single executable library housing the foundational blueprint class definition and functional processing nodes.
 * `README.md`: Structural design overview and code documentation platform.
+
 See also: [reanalysis of my undergraduate thesis data](https://github.com/Timimi18/yam-peel-adsorption-analysis)
